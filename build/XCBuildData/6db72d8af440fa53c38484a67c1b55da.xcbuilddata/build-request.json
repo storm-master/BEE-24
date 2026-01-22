@@ -1,0 +1,52 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9808993ee7e539dbc8104a52b3ab1a956e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989a6504aeebf24935e5ae3a46fd401f0b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9816b0fe840601efa86417b337ac336703"
+    }
+  ],
+  "containerPath" : "/Users/evgenii/Downloads/BEE-24/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/evgenii/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/evgenii/Library/Developer/Xcode/DerivedData/Pods-fbfkkhcdnbmtqvgaqtfqwadcyfkk/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/evgenii/Library/Developer/Xcode/DerivedData/Pods-fbfkkhcdnbmtqvgaqtfqwadcyfkk/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

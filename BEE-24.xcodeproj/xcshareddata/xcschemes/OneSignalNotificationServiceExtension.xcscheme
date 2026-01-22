@@ -16,7 +16,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7EC1B2872F22711E00F98D66"
+               BlueprintIdentifier = "7E1B8A3E2F2284E300C7420E"
                BuildableName = "OneSignalNotificationServiceExtension.appex"
                BlueprintName = "OneSignalNotificationServiceExtension"
                ReferencedContainer = "container:BEE-24.xcodeproj">

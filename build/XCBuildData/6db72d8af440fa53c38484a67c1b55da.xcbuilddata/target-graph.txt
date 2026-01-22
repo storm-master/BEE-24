@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Pods-OneSignalNotificationServiceExtension' in project 'Pods'
+➜ Explicit dependency on target 'Pods-BEE-24' in project 'Pods'
+Target 'Pods-BEE-24' in project 'Pods'
+➜ Explicit dependency on target 'OneSignalXCFramework' in project 'Pods'
+Target 'OneSignalXCFramework' in project 'Pods' (no dependencies)

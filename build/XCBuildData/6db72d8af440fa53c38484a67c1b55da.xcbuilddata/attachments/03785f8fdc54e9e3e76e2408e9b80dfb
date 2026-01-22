@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_BEE_24VersionString[];
+ extern const double Pods_BEE_24VersionNumber;
+
+ const unsigned char Pods_BEE_24VersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_BEE_24  PROJECT:Pods-1" "\n";
+ const double Pods_BEE_24VersionNumber __attribute__ ((used)) = (double)1.;
